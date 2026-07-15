@@ -1,0 +1,7 @@
+streamlit
+transformers==4.53.2
+torch
+opencv-python-headless
+pillow==11.3.0
+numpy
+accelerate
